@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=38&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pablo+👋;I'm+from+Brazil;I'm+Graduating+Systems+Development;Be+Welcome!+💻🤟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=38&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pablo+👋;Be+Welcome!+💻🤟)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbleite&show_icons=true&theme=radical" alt="Pablo Leite github stats" />
