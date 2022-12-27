@@ -5,7 +5,7 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbleite&show_icons=true&theme=radical" alt="Pablo Leite github stats" />
   <img width="48%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpbleite&layout=compact&hide_border=false&title_color=FF1493&text_color=87CEFA&bg_color=0d1117" />
-</div>
+</div><img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px"/>
 
 
 ![Snake animation](https://github.com/devpbleite/devpbleite/blob/output/github-contribution-grid-snake.svg)
