@@ -36,8 +36,10 @@ Hi, nice to see you! I'm Pablo, front-end developer :)
 ---
 
  # 💻 Tech Stack:
+ 
 ---
-  <div align="center">
+ 
+<div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"</a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"</a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"</a>
@@ -53,12 +55,10 @@ Hi, nice to see you! I'm Pablo, front-end developer :)
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"</a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"</a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"</a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"</a>
-   
-  <a href="#" target="_blank"><img src="https://visitcount.itsvg.in/api?id=devpbleite&icon=0&color=0"</a> 
-    
-    [![](https://visitcount.itsvg.in/api?id=devpbleite&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"</a>   
 </div>
+   
+    [![](https://visitcount.itsvg.in/api?id=devpbleite&icon=0&color=0)](https://visitcount.itsvg.in)
   
 
 
