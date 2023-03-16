@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEFEFE&size=38&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pablo+👋;Be+Welcome!+💻🤟)](https://git.io/typing-svg)
 
+---
+
+# 📊 GitHub Stats:
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbleite&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Pablo Leite github stats" />
   <img width="49%" height="195px"src="https://github-readme-streak-stats.herokuapp.com/?user=devpbleite&theme=nightowl&hide_border=false" />
@@ -11,7 +15,6 @@
 
 ---
 
-# 📊 GitHub Stats:
 
 <div align="center">
 <a href="https://codepen.io/devpbleite" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"</a>
