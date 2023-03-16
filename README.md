@@ -1,6 +1,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEFEFE&size=38&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pablo+👋;Be+Welcome!+💻🤟)](https://git.io/typing-svg)
+---
 
 # 💫 About Me:
 Hi, nice to see you! I'm Pablo, front-end developer :)
