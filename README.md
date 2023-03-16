@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbleite&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Pablo Leite github stats" />
+  <img  height="195px" src="https://github-readme-stats.vercel.app/api?username=devpbleite&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Pablo Leite github stats" />
   <img width="49%" height="195px"src="https://github-readme-streak-stats.herokuapp.com/?user=devpbleite&theme=nightowl&hide_border=false" />
   <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpbleite&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
