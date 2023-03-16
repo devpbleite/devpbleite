@@ -58,6 +58,8 @@ Hi, nice to see you! I'm Pablo, front-end developer :)
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"</a>   
 </div>
    
+---
+   
     [![](https://visitcount.itsvg.in/api?id=devpbleite&icon=0&color=0)](https://visitcount.itsvg.in)
   
 
