@@ -1,12 +1,14 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEFEFE&size=38&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pablo+👋;Be+Welcome!+💻🤟)](https://git.io/typing-svg)
+
 ---
 
 # 💫 About Me:
+
 Hi, nice to see you! I'm Pablo, front-end developer :)
 
-🧑🏻⚖️ => 🧑🏻‍💻 - In 2022 I started my career transition to the tech area and since then<br>I've been improving. Since then I have been training myself to bring solutions to life of people through my code, always seeking accessibility and adaptability in my applications.
+🧑🏻⚖️ => 🧑🏻‍💻 - In 2022 I started my career transition to the tech area and since then I've been improving. Since then I have been training myself to bring solutions to life of people through my code, always seeking accessibility and adaptability in my applications.
 
 👩🏻‍💻📚🧠 - Graduating in Systems Analysis and Development, I have been developing own projects and acting as a volunteer in community projects that I participate and open source.
 
