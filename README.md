@@ -8,9 +8,9 @@
 
  Hi, nice to see you! I'm Pablo, front-end developer :)
 
- 🧑🏻⚖️ => 🧑🏻‍💻 - In 2022 I started my career transition to the tech area and since then I've been improving. Since then I have been training myself to bring solutions to life of people through my code, always seeking accessibility and adaptability in my applications.
+  In 2022 I started my career transition to the tech area and since then I've been improving. Since then I have been training myself to bring solutions to life of people through my code, always seeking accessibility and adaptability in my applications.
 
- 👩🏻‍💻📚🧠 - Graduating in Systems Analysis and Development, I have been developing own projects and acting as a volunteer in community projects that I participate and open source.
+  Graduating in Systems Analysis and Development, I have been developing own projects and acting as a volunteer in community projects that I participate and open source.
 
 ---
 
