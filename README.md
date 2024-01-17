@@ -55,9 +55,9 @@
 <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"</a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"</a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"</a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"</a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"</a>    
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C#&logoColor=white"</a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"</a>     
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"</a>
  
   
