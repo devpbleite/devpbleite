@@ -4,13 +4,27 @@
 
 ---
 
-# 💡 About Me:
+ <h3 align="center">I'm a software engineer. Nice to see you here! .</h3>
 
- <h3 align="center">Hi, nice to see you! I'm Pablo, software engineer.</h3>
+ ## 💬 Ask me about
+- Frontend web development (React.js, Next.js, Angular)
+- Backend web development (Java, TypeScript, C#, Spring Boot, .NET)
+- Mobile development (React Native, Kotlin)
+- Cloud Architecture (i'm beginner. Cof Cof)
+- Cats and Dogs
+- Games, Cars and animes
 
-  In 2022 I started my career transition to the tech area and since then I've been improving. Since then I have been training myself to bring solutions to life of people through my code, always seeking accessibility and adaptability in my applications.
+## 📅 Hobbies
+- Create my own web and mobile projects. I always go through the Figma Community
+- Watch anime and TV shows
+- Play videogames and football
+- etc...
 
-  Graduating in Systems Analysis and Development, I have been developing own projects and acting as a volunteer in community projects that I participate and open source.
+## 📚 Learning
+- React.js and React Native always!
+- In the realm of backend. Let's venture into fullstack in the future 
+- TypeScript
+- To cook
 
 ---
 
