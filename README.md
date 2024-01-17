@@ -4,9 +4,9 @@
 
 ---
 
-# 💫 About Me:
+# 💡 About Me:
 
- Hi, nice to see you! I'm Pablo, front-end developer :)
+ <h3 align="center">Hi, nice to see you! I'm Pablo, software engineer.</h3>
 
   In 2022 I started my career transition to the tech area and since then I've been improving. Since then I have been training myself to bring solutions to life of people through my code, always seeking accessibility and adaptability in my applications.
 
