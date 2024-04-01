@@ -23,7 +23,8 @@
 ## 📚 Learning
 - React.js and React Native always!
 - In the realm of backend. Let's venture into fullstack in the future 
-- TypeScript
+- Node.js
+- C# and .NET
 - To cook
 
 ---
