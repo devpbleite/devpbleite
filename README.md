@@ -8,7 +8,7 @@
 
  ## 💬 Ask me about
 - Frontend web development (React.js, Next.js, Angular)
-- Backend web development (Java, TypeScript, C#, Spring Boot, .NET)
+- Backend web development (Java, TypeScript, Go, Spring Boot)
 - Mobile development (React Native, Kotlin)
 - Cloud Architecture (i'm beginner. Cof Cof)
 - Cats and Dogs
@@ -22,9 +22,9 @@
 
 ## 📚 Learning
 - React.js and React Native always!
-- In the realm of backend. Let's venture into fullstack in the future 
-- Node.js
-- C# and .NET
+- In the realm of backend. Let's venture into fullstack 
+- Golang
+- Cloud Computing
 - To cook
 
 ---
@@ -46,9 +46,9 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"</a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"</a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white"</a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"</a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"</a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"</a>     
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"</a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"</a>
  
   
   
