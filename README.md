@@ -5,10 +5,10 @@
  <h3 align="center">I'm a Data Engineer & Analyst. Nice to see you here!</h3>
 
  ## 💬 Ask me about
-- [cite_start]Data Engineering & Automations (Python, Airflow, dbt, Docker) [cite: 6, 12, 13]
-- [cite_start]Business Intelligence, Strategic Risk Management & Controlling 
-- [cite_start]Frontend web development (React.js, Next.js, React Native) [cite: 16, 26, 32]
-- [cite_start]Backend web development (Java, TypeScript, Spring Boot) [cite: 16, 31, 32]
+- Data Engineering & Automations (Python, Airflow, dbt, Docker)
+- Business Intelligence, Strategic Risk Management & Controlling
+- Frontend web development (React.js, Next.js, React Native)
+- Backend web development (Java, TypeScript, Spring Boot)
 - Cats and Dogs
 - Games, Cars and animes
 
@@ -21,7 +21,7 @@
 ## 📚 Learning
 - PL-300 Microsoft Power BI Data Analyst certification
 - Expanding backend skills (Django, FastAPI, Flask)
-- [cite_start]Cloud Computing Architectures (AWS, Snowflake) [cite: 6, 14]
+- Cloud Computing Architectures (AWS, Snowflake)
 - To cook
 
 ---
